@@ -62,6 +62,17 @@
   </li>
     <li>The client should specify and fill all fields, then he must hit the check available hotel button.<br><img src="https://user-images.githubusercontent.com/100478249/176687790-acb185b9-8ca0-4a97-855d-b5b4451602bd.png">
   </li>
+  
+  <li>Available Hotels interface, the client chooses the name of hotel he wants and click on it to book a room.<br><img src="https://user-images.githubusercontent.com/100478249/176689765-7203bce1-4e65-4236-b332-7341e823d35d.png">
+  </li>
+  <li>The client should specify and fill all fields, then hit the check available car button.<br><img src="https://user-images.githubusercontent.com/100478249/176689785-8cfef90e-3094-47d0-a343-fc63e5340d9f.png">
+  </li>
+  <li>Available cars interface, the client chooses the type of car he wants and click on it to take a car.<br><img src="https://user-images.githubusercontent.com/100478249/176689824-0a0fb202-71e5-498b-9753-1717bc956b00.png">
+  </li>
+  <li>Bill report interface, this bill appears when client complete all booking steps.<br><img src="https://user-images.githubusercontent.com/100478249/176689866-2d996032-719c-41e6-a66d-ade0951d6e23.png">
+  </li>
+  <li>Loading interface to be able to access the admin interfaces or the employee interfaces.<br><img src="https://user-images.githubusercontent.com/100478249/176689880-935aec53-c4f4-486a-a8cd-9f21e53965b7.png">
+  </li>
+  
   </ul>
-
 
