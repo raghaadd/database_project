@@ -9,5 +9,5 @@
 <br><br><br>
 
 <h2 align="center"> EER Diagram</h2> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/100478249/176670489-39ca3059-0990-48f7-8dca-688adcdb68be.png">
+<img align="center" src="https://user-images.githubusercontent.com/100478249/176670489-39ca3059-0990-48f7-8dca-688adcdb68be.png">
 
