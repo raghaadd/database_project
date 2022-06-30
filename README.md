@@ -8,9 +8,9 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   *Backend & Frontend Developer*  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; *Backend & Frontend Developer* 
 <br><br><br>
 
-<h2 align="left"> EER Diagram</h2> 
 <h2 align="left"> Poject Demo</h2> 
 <p> You can click on th following youtube link to see full demo for this project:https://www.youtube.com/watch?v=Hpt0JdKXJZU </p>
+<h2 align="left"> EER Diagram</h2> 
 <img align="center" src="https://user-images.githubusercontent.com/100478249/176670489-39ca3059-0990-48f7-8dca-688adcdb68be.png">
 <h2 align="left"> Project Demo</h2> 
 <ul>
