@@ -53,10 +53,16 @@
   </li>
    <li>In this interface clients should specify if they want to go with trip or not.<br><img src="https://user-images.githubusercontent.com/100478249/176686724-6a54c630-0029-4e3c-af3b-b814c6a6283d.png">
   </li>
+  
+    <li>In this interface clients should specify if they want to go with trip or not.<br><img src="https://user-images.githubusercontent.com/100478249/176686751-681564d9-9096-4fe5-b28e-59101b725af5.png">
+  </li>
+    <li>In this interface clients should specify if they want to go with trip or not.<br><img src="https://user-images.githubusercontent.com/100478249/176686770-000376fb-7e18-480a-a89c-885a55432cdd.png">
+  </li>
+    <li>In this interface clients should specify if they want to go with trip or not.<br><img src="https://user-images.githubusercontent.com/100478249/176686784-46af20ca-09b8-4882-be3c-0d3c425b0f53.png">
+  </li>
+    <li>In this interface clients should specify if they want to go with trip or not.<br><img src="https://user-images.githubusercontent.com/100478249/176687790-acb185b9-8ca0-4a97-855d-b5b4451602bd.png">
+  </li>
   </ul>
-![22](https://user-images.githubusercontent.com/100478249/176686751-681564d9-9096-4fe5-b28e-59101b725af5.png)
-![23](https://user-images.githubusercontent.com/100478249/176686770-000376fb-7e18-480a-a89c-885a55432cdd.png)
-![24](https://user-images.githubusercontent.com/100478249/176686784-46af20ca-09b8-4882-be3c-0d3c425b0f53.png)
 
 
 
