@@ -45,8 +45,16 @@
    <li>When admin click on Change Password button, he can change his password by entering his id, email, old password, new password and confirm password, then click Change Password.<br><img src="https://user-images.githubusercontent.com/100478249/176683576-9c5b6a8d-d05f-4e8e-b1b2-d72cc9fbf502.png">
     <li>Through this interface, employee can enter the system by entering his id, email and password and click Login button.<br><img src="https://user-images.githubusercontent.com/100478249/176683650-de096f3b-45e0-4322-85f9-920ffd3c1380.png">
   </li>
-  
    <li>Through this interface, employee can register clients in the system by click on Client Registration button.<br><img src="https://user-images.githubusercontent.com/100478249/176685268-6f7d4d40-16c4-49cc-a1be-7ee9e7567e93.png">
+  </li>
+   <li>In this interface the employee should ask the client if he register before if no, then another interface will show to allow registeration for clients, if yes then he has to enter his passport id.<br><img src="https://user-images.githubusercontent.com/100478249/176685282-13f65e76-c033-46d4-a428-5b2f4e1635fa.png">
+  </li>
+   <li>This interface to register clients who have not register before.<br><img src="https://user-images.githubusercontent.com/100478249/176685296-75d1d978-2aa4-4e49-92c9-0d9f1204d614.png">
+  </li>
+   <li>In this interface clients should specify if they want to go with trip or not.<br><img src="https://user-images.githubusercontent.com/100478249/176685351-3dbb9780-2b97-4cde-a149-1ad05e281462.png">
+  </li>
+  
+  <li>Through this interface, employee can register clients in the system by click on Client Registration button.<br><img src="https://user-images.githubusercontent.com/100478249/176685268-6f7d4d40-16c4-49cc-a1be-7ee9e7567e93.png">
   </li>
    <li>In this interface the employee should ask the client if he register before if no, then another interface will show to allow registeration for clients, if yes then he has to enter his passport id.<br><img src="https://user-images.githubusercontent.com/100478249/176685282-13f65e76-c033-46d4-a428-5b2f4e1635fa.png">
   </li>
@@ -56,6 +64,11 @@
   </li>
   </ul>
 
+
+![21](https://user-images.githubusercontent.com/100478249/176686724-6a54c630-0029-4e3c-af3b-b814c6a6283d.png)
+![22](https://user-images.githubusercontent.com/100478249/176686751-681564d9-9096-4fe5-b28e-59101b725af5.png)
+![23](https://user-images.githubusercontent.com/100478249/176686770-000376fb-7e18-480a-a89c-885a55432cdd.png)
+![24](https://user-images.githubusercontent.com/100478249/176686784-46af20ca-09b8-4882-be3c-0d3c425b0f53.png)
 
 
 
