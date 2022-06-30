@@ -16,7 +16,8 @@
   </li>
       <li>Through this interface, admin must enter his id,email and password.<img src="https://user-images.githubusercontent.com/100478249/176677176-42c7f562-93fc-47a9-aa7b-14dfea4400d8.png">
   </li>
-  <li> Forgot password interface:  <img src="https://user-images.githubusercontent.com/100478249/176677195-3bdc00b0-9d38-4fce-966d-fabba25c64d5.png">
+  <li> Forgot password interface. 
+    <img src="https://user-images.githubusercontent.com/100478249/176677195-3bdc00b0-9d38-4fce-966d-fabba25c64d5.png">
   </li>
   
    <li> Through this interface, admin can add employee, update employee, search for one employee, delete employee, search for one clients, add offers, get information about all employees and all clients, and change his password if he want by clicking one of the buttons.<img src="https://user-images.githubusercontent.com/100478249/176677206-1a0eab9c-5e19-4c7c-a117-3a9360be826b.png">
