@@ -8,3 +8,6 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   *Backend & Frontend Developer*  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; *Backend & Frontend Developer* 
 <br><br><br>
 
+<h2 align="left"> EER Diagram</h2> 
+<img src="https://user-images.githubusercontent.com/100478249/176670489-39ca3059-0990-48f7-8dca-688adcdb68be.png">
+
