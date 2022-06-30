@@ -29,6 +29,13 @@
   </li>
     <li> When admin click on Update Employee button, he can change any information he wants<img src="https://user-images.githubusercontent.com/100478249/176679037-f2d08410-e23c-4649-aaa6-42c0d355f2a4.png">
   </li>
-
+   <li> When admin clicks Search Employee button, he can get all information about employees the desired information will be displayed in a table.<img src="https://user-images.githubusercontent.com/100478249/176680383-fc84ee77-41a8-4229-af32-e04cf72b2271.png">
+  </li>
+   <li> When admin click on All Employees button, he can get all information about all employees who registered in the system and display the information into table by just clicking on Show Employees button.<img src="https://user-images.githubusercontent.com/100478249/176680437-5b4c3c41-b917-441d-bf39-25b4323c64d5.png">
+  </li>
+   <li> When admin click on Delete Employee button, he can delete any employee by entering his employment id then get his details then click the delete button.<img src="https://user-images.githubusercontent.com/100478249/176680453-524f3c9d-e3d7-41d5-99f3-ac4d17b30c18.png">
+  </li>
+   <li> When admin clicks Search Client button, he can get all information about clients by entering passport id then click get details button to display the information in the table.<img src="https://user-images.githubusercontent.com/100478249/176680488-a34fddf2-d525-4a94-8727-2cbbcd79a205.png">
+  </li>
   </ul>
 
