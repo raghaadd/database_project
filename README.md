@@ -54,15 +54,14 @@
    <li>In this interface clients should specify if they want to go with trip or not.<br><img src="https://user-images.githubusercontent.com/100478249/176686724-6a54c630-0029-4e3c-af3b-b814c6a6283d.png">
   </li>
   
-    <li>In this interface clients should specify if they want to go with trip or not.<br><img src="https://user-images.githubusercontent.com/100478249/176686751-681564d9-9096-4fe5-b28e-59101b725af5.png">
+    <li>This interface contains all offers added by admin, each client should specify what offer he wants by clicking one of the above tabs then after clicking Choose Offer button, a Bill report will appears to show the total price.<br><img src="https://user-images.githubusercontent.com/100478249/176688349-783729bc-9e8b-475c-a105-616001624d6d.png">
   </li>
-    <li>In this interface clients should specify if they want to go with trip or not.<br><img src="https://user-images.githubusercontent.com/100478249/176686770-000376fb-7e18-480a-a89c-885a55432cdd.png">
+    <li>This interface contains issue ticket, booking room, and take car.<br><img src="https://user-images.githubusercontent.com/100478249/176686770-000376fb-7e18-480a-a89c-885a55432cdd.png">
   </li>
-    <li>In this interface clients should specify if they want to go with trip or not.<br><img src="https://user-images.githubusercontent.com/100478249/176686784-46af20ca-09b8-4882-be3c-0d3c425b0f53.png">
+    <li>After clicking issue ticket button the client should specify and fill all fields, then he must hit done button. <br><img src="https://user-images.githubusercontent.com/100478249/176686784-46af20ca-09b8-4882-be3c-0d3c425b0f53.png">
   </li>
-    <li>In this interface clients should specify if they want to go with trip or not.<br><img src="https://user-images.githubusercontent.com/100478249/176687790-acb185b9-8ca0-4a97-855d-b5b4451602bd.png">
+    <li>The client should specify and fill all fields, then he must hit the check available hotel button.<br><img src="https://user-images.githubusercontent.com/100478249/176687790-acb185b9-8ca0-4a97-855d-b5b4451602bd.png">
   </li>
   </ul>
-
 
 
