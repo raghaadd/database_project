@@ -21,8 +21,14 @@
   </li>
    <li> Through this interface, admin can add employee, update employee, search for one employee, delete employee, search for one clients, add offers, get information about all employees and all clients, and change his password if he want by clicking one of the buttons.<img src="https://user-images.githubusercontent.com/100478249/176677206-1a0eab9c-5e19-4c7c-a117-3a9360be826b.png">
   </li>
+   <li> When admin click on the Add Employee button, he can add two types of employees: Staff and Guide.<img src="https://user-images.githubusercontent.com/100478249/176678981-cd02b447-28c1-44a4-b873-ef94d1c1d101.png">
+  </li>
+  <li> This interface enable admin to add new staff by entering his peronal information then hit add button to add this employee to the system.<img src="https://user-images.githubusercontent.com/100478249/176678996-78f39801-873c-4df7-8cf0-cf831330fa95.png">
+  </li>
+   <li>This interface enable admin to add new guide by entering his peronal information then hit add button to add this employee to the system.<img src="https://user-images.githubusercontent.com/100478249/176679021-f126b985-33aa-4572-914d-370a4b11f670.png">
+  </li>
+    <li> When admin click on Update Employee button, he can change any information he wants<img src="https://user-images.githubusercontent.com/100478249/176679037-f2d08410-e23c-4649-aaa6-42c0d355f2a4.png">
+  </li>
 
   </ul>
-
-
 
