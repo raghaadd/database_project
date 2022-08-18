@@ -9,7 +9,7 @@
 <br><br><br>
 
 <h2 align="left"> Project Description</h2> 
-<p>This is a desktop project that enable people booking thier trips, tickets, and hotels</p>
+<p>This is a desktop project that enable people booking their trips, tickets, and hotels</p>
 <h2 align="left"> Project Demo</h2> 
 <p> You can click on th following youtube link to see full demo for this project: https://www.youtube.com/watch?v=Hpt0JdKXJZU </p>
 <h2 align="left"> EER Diagram</h2> 
